@@ -4,3 +4,5 @@
  Using pixell and camb
 
  Thanks Alex.
+
+![Example Image](Figure_1.png)
